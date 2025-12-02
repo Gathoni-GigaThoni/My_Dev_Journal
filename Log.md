@@ -71,4 +71,14 @@
 - https://training.linuxfoundation.org/resources/free-courses/
 - https://www.databricks.com/training/catalog
 
-###
+### 02.12.2025
+- #### Possible Mini blog #### 
+Feeling down, failing at ALX again, could not catch up in time.
+Vowed that i would make up the time and still complete the AirBnB clone APP on my own and NEXUS project that i had chosen
+The commute is crazy, feeling really frustrated, wasting all my morning time and have to come back home in time for showering time for babies. Get home tired, not able to continue focus work at home.
+Everyday i wake up feeling like a failure, i desperately need an office close to home.
+I am learning close to 3 different languages that includes a framework and still building but mostly debugging, asking why is my VSCode terminal not getting to be integrated, so frustrating having to go back and forth from my command prompt, i have tried everything!!
+I am still working on Week 2 problems which should culminate to DB that is well setup and configured; 
+- Advanced SQL queries, 
+- Advanced Python: Generators, Decorators, Context Managers, and Asynchronous Programming
+
