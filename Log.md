@@ -82,3 +82,7 @@ I am still working on Week 2 problems which should culminate to DB that is well 
 - Advanced SQL queries, 
 - Advanced Python: Generators, Decorators, Context Managers, and Asynchronous Programming
 
+## The week of 08.12.2025 Goals
+Well this week, god give me a breakthrough because:
+- I need to figure out my AIRBnB Clone App and deploy it on Rackenerd in 5 days, so i need to finish the tutorials on Py and Dj and start working on it 
+- The Homelab is also somthing i need to complete in 5 days so as to be interview ready in about 7 days, the Great interview; with Mogo DB, Oh my, System Administrator
